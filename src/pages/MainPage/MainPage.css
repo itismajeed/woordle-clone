@@ -1,0 +1,6 @@
+.main-page{
+  background-color: #212121;
+  height: calc(100vh - 60px);
+  box-sizing: border-box;
+  padding: 2rem!important;
+}
